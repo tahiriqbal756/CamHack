@@ -19,3 +19,12 @@ pkg install python
 pkg install termux-api
 termux-setup-storage
 python TF.py
+
+
+
+
+<a href="https://wa.me/923321709972" target="_blank">
+    <button style="background-color:#25D366; color:white; border:none; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;">
+        Contact on WhatsApp
+    </button>
+</a>
