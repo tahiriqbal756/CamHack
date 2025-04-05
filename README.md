@@ -1,8 +1,4 @@
 # CamHack
-
-Welcome to **CamHack** project! This is a simple Flask-based camera capture tool for Termux that s
-# CamHack
-
 **CamHack** ek simple Flask-based camera capture tool hai jo **Termux** par chalega. Ismein **localhost**, **Ngrok**, aur **Cloudflare** tunneling options hain.
 
 ---
