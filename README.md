@@ -21,10 +21,8 @@ termux-setup-storage
 python TF.py
 
 
+## Contact on WhatsApp
 
+Agar aapko kisi bhi help ki zarurat ho, toh aap **WhatsApp** par humse directly contact kar sakte hain. Neeche diye gaye link par click karke humare WhatsApp number par chalte jayenge:
 
-<a href="https://wa.me/923321709972" target="_blank">
-    <button style="background-color:#25D366; color:white; border:none; padding:15px 32px; text-align:center; text-decoration:none; display:inline-block; font-size:16px; margin:4px 2px; cursor:pointer; border-radius:8px;">
-        Contact on WhatsApp
-    </button>
-</a>
+[**Contact Us on WhatsApp**](https://wa.me/923321709972)
